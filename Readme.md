@@ -1,3 +1,3 @@
-> Luminex is a high level interpreted language developed my Zephryon
+> Luminex is a high level interpreted language developed by Zephryon
 
 - This project is under developement
